@@ -1,7 +1,7 @@
 Summary:	Dhcp daemon ping program
 Name:           dhcping
 Version:        1.2
-Release:        %mkrel 12
+Release:        %mkrel 13
 License:        BSD
 Group:		Networking/Other
 URL:		http://www.mavetju.org/unix/general.php
