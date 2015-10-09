@@ -1,2 +1,4 @@
+removed_sources:
+  dhcping-1.2.tar.bz2: a6a722661afa80a9e9f17f00dc13e0e1a101330f
 sources:
-  "dhcping-1.2.tar.bz2": a6a722661afa80a9e9f17f00dc13e0e1a101330f
+  dhcping-1.2.tar.gz: 97927886adc1e5b3a67c55f9010a918e2e880f1e
