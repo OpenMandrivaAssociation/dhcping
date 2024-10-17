@@ -4,7 +4,7 @@ Version:        1.2
 Release:        14
 License:        BSD
 Group:		Networking/Other
-URL:		http://www.mavetju.org/unix/general.php
+URL:		https://www.mavetju.org/unix/general.php
 Source:         http://www.mavetju.org/download/%{name}-%{version}.tar.gz
 
 %description
