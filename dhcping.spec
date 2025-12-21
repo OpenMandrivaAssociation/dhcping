@@ -7,6 +7,11 @@ Group:		Networking/Other
 URL:		https://www.mavetju.org/unix/general.php
 Source:         http://www.mavetju.org/download/%{name}-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 This small tool let you perform a dhcp-request to find out if a dhcp-server is
 still running.
